@@ -1,0 +1,10 @@
+G:\PRogramovani\testretezcestach\testretezcestach\bin\Debug\testretezcestach.exe.config
+G:\PRogramovani\testretezcestach\testretezcestach\bin\Debug\testretezcestach.exe
+G:\PRogramovani\testretezcestach\testretezcestach\bin\Debug\testretezcestach.pdb
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.csprojAssemblyReference.cache
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.Form1.resources
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.Properties.Resources.resources
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.csproj.GenerateResource.cache
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.csproj.CoreCompileInputs.cache
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.exe
+G:\PRogramovani\testretezcestach\testretezcestach\obj\Debug\testretezcestach.pdb
